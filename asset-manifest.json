@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clubhouse-clone.github.io/static/css/main.126f91bf.css",
+    "main.js": "/clubhouse-clone.github.io/static/js/main.41b11e11.js",
+    "static/js/787.bb0a5924.chunk.js": "/clubhouse-clone.github.io/static/js/787.bb0a5924.chunk.js",
+    "index.html": "/clubhouse-clone.github.io/index.html",
+    "main.126f91bf.css.map": "/clubhouse-clone.github.io/static/css/main.126f91bf.css.map",
+    "main.41b11e11.js.map": "/clubhouse-clone.github.io/static/js/main.41b11e11.js.map",
+    "787.bb0a5924.chunk.js.map": "/clubhouse-clone.github.io/static/js/787.bb0a5924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126f91bf.css",
+    "static/js/main.41b11e11.js"
+  ]
+}
